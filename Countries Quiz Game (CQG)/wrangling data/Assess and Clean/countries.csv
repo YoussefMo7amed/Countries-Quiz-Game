@@ -1,0 +1,265 @@
+country,capital,currency,language,continent
+Abkhazia,Sukhumi,Russian ruble(RUB),"Georgian, Abkhaz, Russian",Asia
+Afghanistan,Kabul,Afghani(AFN),"Pashto, Dari (Persian)",Asia
+Akrotiri and Dhekelia,Episkopi Cantonment,Euro (EUR),"English, Greek",Asia
+Armenia,Yerevan,Dram (AMD),Armenian,Asia
+Azerbaijan,Baku,Manat (AZN),Azerbaijani,Asia
+Bahrain,Manama,Bahraini dinar (BHD),Arabic,Asia
+Bangladesh,Dhaka,Taka(BDT),Bengali,Asia
+Bhutan,Thimphu,Bhutanese ngultrumb(BTN),Dzongkha,Asia
+British Indian Ocean Territory,Diego Garcia,UK pound,English,Asia
+Brunei,Bandar Seri Begawan,Brunei dollar (BND),Bahasa Melayu,Asia
+Cambodia,Phnom Penh,Riela (KHR),Khmer,Asia
+China,Beijing,Renminbi (yuan)(CNY),Standard Chinese,Asia
+Christmas Island,Flying Fish Cove,Australian dollar (AUD),English,Asia
+Cocos (Keeling) Islands,West Island,Australian dollar (AUD),English,Asia
+Cyprus,Nicosia,Euro (EUR),"Greek, Turkish",Asia
+East Timor,Dili,United States dollarc(USD),"Portuguese, Tetum",Asia
+Georgia,Tbilisi,Lari (GEL),Georgian,Asia
+Hong Kong,Special administrative region of China,Hong Kong dollar(HKD),"English, Cantonese",Asia
+India,New Delhi,Indian rupee (INR),"Hindi, English",Asia
+Indonesia,Jakarta,Indonesian rupiah (IDR),Indonesian,Asia
+Iran,Tehran,Rial (IRR),Persian,Asia
+Iraq,Baghdad,Iraqi dinar (IQD),"Kurdish, Arabic",Asia
+Israel,Jerusalem,Israeli new shekel (ILS),"Hebrew, English, Arabic",Asia
+Japan,Tokyo,Yen (JPY),Japanese,Asia
+Jordan,Amman,Jordanian dinar (JOD),Arabic,Asia
+Kazakhstan,Astana,Tenge (KZT),"Kazakh, Russian",Asia
+Kurdistan,Erbil,Dinar,Kurdish,Asia
+Kuwait,Kuwait City,Kuwaiti dinar (KWD),Arabic,Asia
+Kyrgyzstan,Bishkek,Som (KGS),"Kyrgyz, Russian",Asia
+Laos,Vientiane,Kip (LAK),Lao,Asia
+Lebanon,Beirut,Lebanese pound (LBP),Arabic,Asia
+Macau,Special administrative region of China,Macanese pataca(MOP),"Portuguese, Cantonese",Asia
+Malaysia,Kuala Lumpur,Ringgit (MYR),Malaysian,Asia
+Maldives,Malé,Maldivian rufiyaa(MVR),Maldivian,Asia
+Mongolia,Ulaanbaatar,Tögrög (MNT),Mongolian,Asia
+Myanmar (Burma),Naypyidaw,Kyat (MMK),Burmese,Asia
+Nagorno-Karabakh,Stepanakert,Armenian dram (AMD),Armenian,Asia
+Nepal,Kathmandu,Nepalese rupee (NPR),Nepali,Asia
+Northern Cyprus,Nicosia,Turkish lira (TRY),Turkish,Asia
+North Korea,Pyongyang,North Korean won (KPW),Korean,Asia
+Oman,Muscat,Rial (OMR),Arabic,Asia
+Pakistan,Islamabad,Pakistani rupee (PKR),"English, Urdu",Asia
+Palestine,East Jerusalem,"Egyptian pound (EGP), Israeli new sheqel (ILS), Jordanian dinar(JOD)",Arabic,Asia
+Philippines,Manila,Philippine Peso (PHP),"Filipino, English",Asia
+Qatar,Doha,Riyal (QAR),Arabic,Asia
+Saudi Arabia,Riyadh,Saudi riyal (SAR),Arabic,Asia
+Singapore,Singapore,Singapore dollar (SGD),"English, Chinese, Malay, Tamil",Asia
+South Korea,Seoul,"South Korean won, (KRW)",Korean,Asia
+South Ossetia,Tskhinvali,Russian ruble (RUB),"Ossetic, Georgian, Russian",Asia
+Sri Lanka,,Sri Lankan rupee (LKR),"Sinhala, Tamil",Asia
+Syria,Damascus,Syrian pound (SYP),Arabic,Asia
+Taiwan,Taipei,New Taiwan dollar(TWD),Standard Chinese,Asia
+Tajikistan,Dushanbe,Somoni (TJS),Tajik,Asia
+Thailand,Bangkok,Baht (THB),Thai,Asia
+Turkey,Ankara,Turkish lira(TRY),Turkish,Asia
+Turkmenistan,Ashgabat,Turkmen new manat(TMT),Turkmen,Asia
+United Arab Emirates,Abu Dhabi,UAE dirham (AED),Arabic,Asia
+Uzbekistan,Tashkent,Uzbekistan som(UZS),Uzbek,Asia
+Vietnam,Hanoi,đồng (VND),Vietnamese,Asia
+Yemen,Sana’a,Yemeni rial (YER),Arabic,Asia
+Anguilla,The Valley,East Caribbean dollar(XCD),English,North America
+Antigua and Barbuda,St. John’s,East Caribbean dollar (XCD),English,North America
+Aruba,Oranjestad,Aruban florin(AWG),"Papiamento, Dutch",North America
+Bahamas,Nassau,Bahamian dollar (BSD),English,North America
+Barbados,Bridgetown,Barbadian dollar (BBD),English,North America
+Belize,Belmopan,Belize dollar (BZD),English,North America
+Bermuda,Hamilton,Bermudian dollarc (BMD),English,North America
+Bonaire,Kralendijk,United States dollar(USD),Dutch,North America
+British Virgin Islands,Road Town,United States dollar(USD),English,North America
+Canada,Ottawa,Canadian dollar (CAD),"French, English",North America
+Cayman Islands,George Town,Cayman Islands dollar(KYD),English,North America
+Clipperton Island,uninhabited,Euro(EUR),French,North America
+Costa Rica,San José,Costa Rican colón(CRC),Spanish,North America
+Cuba,Havana,"Peso (CUP), Convertible peso(CUC)",Spanish,North America
+Curaçao,Willemstad,Netherlands Antillean guilder(ANG),"Papiamento, Dutch",North America
+Dominica,Roseau,East Caribbean dollar (XCD),English,North America
+Dominican Republic,Santo Domingo,Dominican peso (DOP),Spanish,North America
+El Salvador,San Salvador,United States dollara (USD),Spanish,North America
+Greenland,Nuuk,Danish krone (DKK),Greenlandic,North America
+Grenada,St. George’s,East Caribbean dollar (XCD),English,North America
+Guadeloupe,Basse-Terre,Euro(EUR),French,North America
+Guatemala,Guatemala City,Guatemalan quetzal(GTQ),Spanish,North America
+Haiti,Port-au-Prince,Haitian gourde(HTG),French,North America
+Honduras,Tegucigalpa,Honduran lempira(HNL),Spanish,North America
+Jamaica,Kingston,Jamaican Dollar(JMD),English,North America
+Martinique,Fort-de-France,Euro(EUR),French,North America
+Mexico,Mexico City,Mexican peso(MXN),Spanish,North America
+Montserrat,Plymouth (official),East Caribbean dollar(XCD),English,North America
+Navassa Island,Insular area of the United States of America,United States Dollar(USD),English,North America
+Nicaragua,Managua,Nicaraguan cordoba(NIO),Spanish,North America
+Panama,Panama City,"Balboa(PAB),, United States dollar (USD)",Spanish,North America
+Puerto Rico,San Juan,United States Dollar(USD),English,North America
+Saba,The Bottom,United States Dollar(USD),Dutch,North America
+Saint Barthélemy,Gustavia,Euro (EUR),French,North America
+Saint Kitts and Nevis,Basseterre,East Caribbean dollar(XCD),English,North America
+Saint Lucia,Castries,East Caribbean dollar(XCD),English,North America
+Saint Martin,Marigot,Euro(EUR),French,North America
+Saint Pierre and Miquelon,Saint-Pierre,Euro(EUR),French,North America
+Saint Vincent and the Grenadines,Kingstown,East Caribbean dollar(XCD),English,North America
+Sint Eustatius,Oranjestad,United States Dollar(USD),Dutch,North America
+Sint Maarten,Philipsburg,Netherlands Antillean guilder(ANG),"Dutch, English",North America
+Trinidad and Tobago,Port of Spain,Trinidad and Tobago dollar (TTD),English,North America
+Turks and Caicos Islands,Cockburn Town,United States Dollar(USD),English,North America
+United States,"Washington, D.C.",United States Dollar(USD),"Many,, National language – English",North America
+United States Virgin Islands,Charlotte Amalie,United States Dollar(USD),English,North America
+Argentina,Buenos Aires,Peso(ARS),Spanish,South America
+Bolivia,Sucre (official),Boliviano (BOB),"Spanish, Quechua, Aymara",South America
+Brazil,Brasília,Real(BRL),Portuguese,South America
+Chile,Santiago,Peso(CLP),Spanish,South America
+Colombia,Bogotá,Peso(COP),Spanish,South America
+Ecuador,Quito,United States dollar(USD),Spanish,South America
+Falkland Islands,Stanley,Falklands pound(FKP),English,South America
+French Guiana,Cayenne,Euro(Eur),French,South America
+Guyana,Georgetown,Guyanese dollar(GYD),English,South America
+Paraguay,Asunción,Guaraní(PYG),"Spanish, Guaraní",South America
+Peru,Lima,Nuevo sol(PEN),Spanish,South America
+Suriname,Paramaribo,Surinamese dollar(SRD),Dutch,South America
+Uruguay,Montevideo,Uruguayan peso(UYU),Spanish,South America
+Venezuela,Caracas,Bolívar fuerte (VEF),Spanish,South America
+American Samoa,Pago Pago,United States dollar(USD),"English, Samoan",Australia
+Ashmore and Cartier Islands,External territory of Australia,—,,Australia
+Australia,Canberra,Australian dollar(AUD),"None,, National language- English",Australia
+Baker Island,—,Insular area of the United States of America,,Australia
+Cook Islands,Avarua,"New Zealand dollar (NZD), Cook Islands dollar","English, Cook Islands Māori",Australia
+Coral Sea Islands,—,External territory of Australia,,Australia
+Fiji,Suva,Fijian dollar (FJD),"English, Fijian, Fiji Hindi",Australia
+French Polynesia,Papeete,CFP Franc(XPF),French,Australia
+Guam,Hagatna,United States Dollar,,Australia
+Howland Island,—,Insular area of the United States of America,,Australia
+Jarvis Island,—,Insular area of the United States of America,,Australia
+Johnston Atoll,—,Insular area of the United States of America,,Australia
+Kingman Reef,—,Insular area of the United States of America,,Australia
+Kiribati,South Tarawa,"Australian dollar, Kiribati dollar",,Australia
+Marshall Islands,Majuro,United States Dollar,,Australia
+Micronesia,Palikir,United States Dollar,,Australia
+Midway Atoll,—,Insular area of the United States of America,,Australia
+Nauru,Yaren (seat of government),Australian dollar,,Australia
+New Caledonia,Nouméa,CFP Franc (XPF),French,Australia
+New Zealand,Wellington,New Zealand dollar (NZD),"Maori, New Zealand Sign, English",Australia
+Niue,Alofi,New Zealand dollar,,Australia
+Norfolk Island,Kingston,Australian dollar,,Australia
+Northern Mariana Islands,Saipan,United States Dollar,,Australia
+Palau,Ngerulmud,United States Dollar,,Australia
+Palmyra Atoll,—,United States Dollar,,Australia
+Papua New Guinea,Port Moresby,Papua New Guinean kina,,Australia
+Pitcairn Islands,Adamstown,New Zealand Dollar,,Australia
+Samoa,Apia,New Zealand Dollar,,Australia
+Solomon Islands,Honiara,Solomon Islands dollar,,Australia
+Tokelau,"Nukunonu (main settlement, although each atoll has its own administrative centre)",New Zealand dollar,,Australia
+Tonga,Nukuʻalofa,Tongan paʻanga,,Australia
+Tuvalu,Funafuti,"Australian dollar, Tuvaluan dollar",,Australia
+Vanuatu,Port Vila,Vanuatu vatu(VUV),"Bislama, French, English",Australia
+Wake Island,Insular area of the United States of America,United States dollar,,Australia
+Wallis and Futuna,Mata-Utu,CFP Franc(XPF),French,Australia
+Åland Islands,Mariehamn,Euro(EUR),Swedish,Europe
+Albania,Tirana,Lek(ALL),Albanian,Europe
+Andorra,Andorra la Vella,Euro(EUR),Catalan,Europe
+Austria,Vienna,Euro(EUR),German,Europe
+Belarus,Minsk,Belarusian ruble(BYR),"Belarusian, Russian",Europe
+Belgium,Brussels,Euro(EUR),"Dutch, French, German",Europe
+Bosnia and Herzegovina,Sarajevo,Convertible mark(BAM),"Bosnian, Croatian, Serbian",Europe
+Bulgaria,Sofia,Lev(BGN),Bulgarian,Europe
+Croatia,Zagreb,Kuna(HRK),Croatian,Europe
+Czech Republic,Prague,Czech koruna(CZK),Czech,Europe
+Denmark,Copenhagen,Danish krone(DKK),Danish,Europe
+Estonia,Tallinn,Euro(EUR),Estonian,Europe
+Faroe Islands,Tórshavn,Faroese króna (DKK),"Faroese, Danish",Europe
+Finland,Helsinki,Euro(EUR),"Finnish, Swedish",Europe
+France,Paris,"Euro (EUR), CFP franc (XPF)",French,Europe
+Germany,Berlin,Euro(EUR),German,Europe
+Gibraltar,Gibraltar,Gibraltar pound (GIP),English,Europe
+Greece,Athens,Euro(EUR),Greek,Europe
+Guernsey,Saint Peter Port,Pound sterlingc (GBP),"English, French",Europe
+Hungary,Budapest,Forint(HUF),Hungarian,Europe
+Iceland,Reykjavík,Icelandic króna(ISK),Icelandic,Europe
+Ireland,Dublin,Euro (EUR),"English, Irish",Europe
+Isle of Man,Douglas,"Manx pound (official), Pound sterling(also used) (GBP)","English, Manx",Europe
+Italy,Rome,Euro(EUR),Italian,Europe
+Jersey,Saint Helier,Pound sterlingd (GBP),"English, French",Europe
+Kosovo,Pristina,Euro (EUR),"Albanian, Serbian",Europe
+Latvia,Ryga,Euro(EUR),Latvian,Europe
+Liechtenstein,Vaduz,Swiss franc(CHF),German,Europe
+Lithuania,Vilnius,Euro(EUR),Lithuanian,Europe
+Luxembourg,Luxembourg,Euro(EUR),"Luxembourgish, French, German",Europe
+Macedonia,Skopje,Macedonian denar(MKD),Macedonian,Europe
+Malta,Valletta,Euro(EUR),"Maltese, English",Europe
+Moldova,Chişinău,Moldovan leu(MDL),Moldovan,Europe
+Monaco,Monaco,Euro(EUR),French,Europe
+Montenegro,Podgorica,Euro (EUR),Montenegrin,Europe
+Netherlands,Amsterdam,Euro (EUR),Dutch,Europe
+Norway,Oslo,Norwegian krone(NOK),"Norwegian, Bokmål, Nynorsk",Europe
+Poland,Warsaw,Złoty(PLN),Polish,Europe
+Portugal,Lisbon,Euro (EUR),Portuguese,Europe
+Romania,Bucharest,Romanian leu(RON),Romanian,Europe
+San Marino,San Marino,Euro(EUR),Italian,Europe
+Serbia,Belgrade,Serbian dinar(RSD),Serbian,Europe
+Slovakia,Bratislava,Euro(EUR),Slovak,Europe
+Slovenia,Ljubljana,Euro(EUR),Slovene,Europe
+Spain,Madrid,Euro(EUR),"Spanish, Catalan, Galician, Basque",Europe
+Svalbard,Longyearbyen,Norwegian krone (NOK),Norwegian,Europe
+Sweden,Stockholm,Swedish krona(SEK),Swedish,Europe
+Switzerland,Bern,Swiss franc,"German, French, Italian, Romansh",Europe
+Transnistria,Tiraspol,Transnistrian rubled(PRB),"Russian, Moldovan, Ukrainian",Europe
+Ukraine,Kiev,Ukrainian hryvnia(UAH),Ukrainian,Europe
+United Kingdom,London,Pound sterling (GBP),English,Europe
+Vatican City,Vatican City,Euro(EUR),Italian,Europe
+Algeria,Agiers,Algerian dinar (DZD),Arabic,Africa
+Angola,Luanda,Kwanza(AOA),Portuguese,Africa
+Benin,Porto-Novo (official),Eco,French,Africa
+Botswana,Gaborone,Pula(BWP),"English, Setswana",Africa
+Burkina Faso,Ouagadougou,Eco,French,Africa
+Burundi,Bujumbura,Burundian franc(BIF),"Kirundi, French",Africa
+Cameroon,Yaoundé,Central AfricanCFA franc(XAF),"French, English",Africa
+Cape Verde,Praia,Cape Verdean escudo(CVE),Portuguese,Africa
+Central African Republic,Bangui,Central African CFA franc (XAF),"French, Sango",Africa
+Chad,N’Djamena,Central African CFA franc(XAF),"French, Arabic",Africa
+Comoros,Moroni,Comorian franc(KMF),"Comorian, Arabic, French",Africa
+Congo (Congo-Brazzaville),Brazzaville,Central African CFA franc (XAF),French,Africa
+Côte d’Ivoire (Ivory Coast),"Yamoussoukro (official),Abidjan (seat of government)",Eco,French,Africa
+Democratic Republic of the Congo (Congo-Kinshasa),Kinshasa,Congolese franc(CDF),French,Africa
+Djibouti,Djibouti,Djiboutian franc(DJF),"French, Arabic",Africa
+Egypt,Cairo,Egyptian pound(EGP),Arabic,Africa
+Equatorial Guinea,Malabo,Central African CFA franc (XAF),"Spanish, French, Portuguese",Africa
+Eritrea,Asmara,Eritrean nakfa (ERN),"Tigrinya, Arabic, English",Africa
+Ethiopia,Addis Ababa,Ethiopian birr (ETB),Amharic,Africa
+Gabon,Libreville,Central African CFA franc (XAF),French,Africa
+Gambia,Banjul,Gambian dalasi (GMD),English,Africa
+Ghana,Accra,Ghana cedi (GHS),English,Africa
+Guinea,Conakry,Guinean franc(GNF),French,Africa
+Guinea-Bissau,Bissau,Eco,Portuguese,Africa
+Kenya,Nairobi,Kenyan shilling(KES),"Swahili, English",Africa
+Lesotho,Maseru,Lesotho loti(LSL),"English, Sesotho",Africa
+Liberia,Monrovia,Liberian dollara(LRD),English,Africa
+Libya,Tripoli,Libyan dinar (LYD),Arabic,Africa
+Madagascar,Antananarivo,Malagasy ariary(MGA),"Malagasy, French",Africa
+Malawi,Lilongwe,Kwacha(D) (MWK),"English, Chichewa",Africa
+Mali,Bamako,Eco,French,Africa
+Mauritania,Nouakchott,Ouguiya(MRO),Arabic,Africa
+Mauritius,Port Louis,Mauritian rupee(MUR),"Mauritian Creole, French, English",Africa
+Mayotte,"Mamoudzou,Overseas department of France",Euro(EUR),French,Africa
+Morocco,Rabat,Moroccan dirham(MAD),"Arabic, Berber",Africa
+Mozambique,Maputo,Mozambican metical(MZN),Portuguese,Africa
+Namibia,Windhoek,Namibian dollar(NAD),English,Africa
+Niger,Niamey,Eco,French,Africa
+Nigeria,Abuja,Naira (NGN),English,Africa
+Réunion,Saint-Denis,Euro,French,Africa
+Rwanda,Kigali,Rwandan franc(RWF),"Kinyarwanda, English,, French",Africa
+"Saint Helena, Ascension and Tristan da Cunha","Jamestown (Saint Helena),, Georgetown (Ascension Island),, Edinburgh of the Seven Seas (Tristan da Cunha)","Saint Helena pound,Pound sterling",English,Africa
+Sao Tome and Principe,São Tomé,Dobra(STD),Portuguese,Africa
+Senegal,Dakar,Eco,French,Africa
+Seychelles,Victoria,Seychellois rupee(SCR),"Seychellois Creole,, French, English",Africa
+Sierra Leone,Freetown,Leone(SLL),English,Africa
+Somalia,Mogadishu,Somali shilling(SOS),"Somali, Arabic",Africa
+Somaliland,Hargeisa,Somaliland shillinga (SLSH),"Somali, Arabic",Africa
+South Africa,"Pretoria (administrative/executive),, Cape Town (legislative),, Bloemfontein (judicial)",South African rand(ZAR),"Afrikaans, English, Southern Ndebele, Northern Sotho, Southern Sotho, Swati, Tsonga, Tswana, Venda, Xhosa, Zulu",Africa
+South Sudan,Juba,South Sudanese pound(SSP),English,Africa
+Sudan,Khartoum,Sudanese pound(SDG),"Arabic, English",Africa
+Swaziland,"Mbabane (administrative),, Lobamba (royal and legislative)",South African rand Swazi lilangeni (SZL),"English,, Swati",Africa
+Tanzania,"Dodoma (official),, Dar es Salaam (seat of government)",Tanzanian shilling(TZS),"Swahili, English",Africa
+Togo,Lome,Eco,French,Africa
+Tunisia,Tunis,Tunisian dinar(TND),Arabic,Africa
+Uganda,Kampala,Ugandan shilling(UGX),"Swahili, English, Luganda",Africa
+Zambia,Lusaka,Zambian kwacha(ZMW),English,Africa
+Zimbabwe,Harare,"United States Dollar, RTGS dollar","English, Shona, Sindebele",Africa

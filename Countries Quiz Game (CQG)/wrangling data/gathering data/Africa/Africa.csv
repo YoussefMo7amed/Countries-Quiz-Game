@@ -1,0 +1,59 @@
+Country,Capital,Currency,Language
+Algeria,Agiers,Algerian dinar (DZD),Arabic
+Angola,Luanda,Kwanza(AOA),Portuguese
+Benin,Porto-Novo (official),Eco,French
+Botswana,Gaborone,Pula(BWP),"English, Setswana"
+Burkina Faso,Ouagadougou,Eco,French
+Burundi,Bujumbura,Burundian franc(BIF),"Kirundi, French"
+Cameroon,Yaoundé,Central AfricanCFA franc(XAF),"French, English"
+Cape Verde,Praia,Cape Verdean escudo(CVE),Portuguese
+Central African Republic,Bangui,Central African CFA franc (XAF),"French, Sango"
+Chad,N’Djamena,Central African CFA franc(XAF),"French, Arabic"
+Comoros,Moroni,Comorian franc(KMF),"Comorian, Arabic, French"
+Congo (Congo-Brazzaville),Brazzaville,Central African CFA franc (XAF),French
+Côte d’Ivoire (Ivory Coast),"Yamoussoukro (official),Abidjan (seat of government)",Eco,French
+Democratic Republic of the Congo (Congo-Kinshasa),Kinshasa,Congolese franc(CDF),French
+Djibouti,Djibouti,Djiboutian franc(DJF),"French, Arabic"
+Egypt,Cairo,Egyptian pound(EGP),Arabic
+Equatorial Guinea,Malabo,Central African CFA franc (XAF),"Spanish, French, Portuguese"
+Eritrea,Asmara,Eritrean nakfa (ERN),"Tigrinya, Arabic, English"
+Ethiopia,Addis Ababa,Ethiopian birr (ETB),Amharic
+Gabon,Libreville,Central African CFA franc (XAF),French
+Gambia,Banjul,Gambian dalasi (GMD),English
+Ghana,Accra,Ghana cedi (GHS),English
+Guinea,Conakry,Guinean franc(GNF),French
+Guinea-Bissau,Bissau,Eco,Portuguese
+Kenya,Nairobi,Kenyan shilling(KES),"Swahili, English"
+Lesotho,Maseru,Lesotho loti(LSL),"English, Sesotho"
+Liberia,Monrovia,Liberian dollara(LRD),English
+Libya,Tripoli,Libyan dinar (LYD),Arabic
+Madagascar,Antananarivo,Malagasy ariary(MGA),"Malagasy, French"
+Malawi,Lilongwe,Kwacha(D) (MWK),"English, Chichewa"
+Mali,Bamako,Eco,French
+Mauritania,Nouakchott,Ouguiya(MRO),Arabic
+Mauritius,Port Louis,Mauritian rupee(MUR),"Mauritian Creole, French, English"
+Mayotte,"Mamoudzou,Overseas department of France",Euro(EUR),French
+Morocco,Rabat,Moroccan dirham(MAD),"Arabic, Berber"
+Mozambique,Maputo,Mozambican metical(MZN),Portuguese
+Namibia,Windhoek,Namibian dollar(NAD),English
+Niger,Niamey,Eco,French
+Nigeria,Abuja,Naira (NGN),English
+Réunion,Saint-Denis,Euro,French
+Rwanda,Kigali,Rwandan franc(RWF),"Kinyarwanda, English,, French"
+"Saint Helena, Ascension and Tristan da Cunha","Jamestown (Saint Helena),, Georgetown (Ascension Island),, Edinburgh of the Seven Seas (Tristan da Cunha)","Saint Helena pound,Pound sterling",English
+Sao Tome and Principe,São Tomé,Dobra(STD),Portuguese
+Senegal,Dakar,Eco,French
+Seychelles,Victoria,Seychellois rupee(SCR),"Seychellois Creole,, French, English"
+Sierra Leone,Freetown,Leone(SLL),English
+Somalia,Mogadishu,Somali shilling(SOS),"Somali, Arabic"
+Somaliland,Hargeisa,Somaliland shillinga (SLSH),"Somali, Arabic"
+South Africa,"Pretoria (administrative/executive),, Cape Town (legislative),, Bloemfontein (judicial)",South African rand(ZAR),"Afrikaans, English, Southern Ndebele, Northern Sotho, Southern Sotho, Swati, Tsonga, Tswana, Venda, Xhosa, Zulu"
+South Sudan,Juba,South Sudanese pound(SSP),English
+Sudan,Khartoum,Sudanese pound(SDG),"Arabic, English"
+Swaziland,"Mbabane (administrative),, Lobamba (royal and legislative)",South African rand Swazi lilangeni (SZL),"English,, Swati"
+Tanzania,"Dodoma (official),, Dar es Salaam (seat of government)",Tanzanian shilling(TZS),"Swahili, English"
+Togo,Lome,Eco,French
+Tunisia,Tunis,Tunisian dinar(TND),Arabic
+Uganda,Kampala,Ugandan shilling(UGX),"Swahili, English, Luganda"
+Zambia,Lusaka,Zambian kwacha(ZMW),English
+Zimbabwe,Harare,"United States Dollar, RTGS dollar","English, Shona, Sindebele"

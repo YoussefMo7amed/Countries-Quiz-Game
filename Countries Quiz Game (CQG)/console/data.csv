@@ -1,0 +1,264 @@
+,country,capital,currency,language,continent
+0,Abkhazia,Sukhumi,Russian ruble (RUB),"Georgian, Abkhaz, Russian",Asia
+1,Afghanistan,Kabul,Afghani (AFN),"Pashto, Dari (Persian)",Asia
+2,Akrotiri and Dhekelia,Episkopi Cantonment,Euro (EUR),"English, Greek",Asia
+3,Armenia,Yerevan,Dram (AMD),Armenian,Asia
+4,Azerbaijan,Baku,Manat (AZN),Azerbaijani,Asia
+5,Bahrain,Manama,Bahraini dinar (BHD),Arabic,Asia
+6,Bangladesh,Dhaka,Taka (BDT),Bengali,Asia
+7,Bhutan,Thimphu,Bhutanese ngultrumb (BTN),Dzongkha,Asia
+8,British Indian Ocean Territory,Diego Garcia,UK pound,English,Asia
+9,Brunei,Bandar Seri Begawan,Brunei dollar (BND),Bahasa Melayu,Asia
+10,Cambodia,Phnom Penh,Riela (KHR),Khmer,Asia
+11,China,Beijing,Renminbi (yuan) (CNY),Standard Chinese,Asia
+12,Christmas Island,Flying Fish Cove,Australian dollar (AUD),English,Asia
+13,Cocos (Keeling) Islands,West Island,Australian dollar (AUD),English,Asia
+14,Cyprus,Nicosia,Euro (EUR),"Greek, Turkish",Asia
+15,East Timor,Dili,United States dollarc (USD),"Portuguese, Tetum",Asia
+16,Georgia,Tbilisi,Lari (GEL),Georgian,Asia
+17,Hong Kong,Special administrative region of China,Hong Kong dollar (HKD),"English, Cantonese",Asia
+18,India,New Delhi,Indian rupee (INR),"Hindi, English",Asia
+19,Indonesia,Jakarta,Indonesian rupiah (IDR),Indonesian,Asia
+20,Iran,Tehran,Rial (IRR),Persian,Asia
+21,Iraq,Baghdad,Iraqi dinar (IQD),"Kurdish, Arabic",Asia
+22,Japan,Tokyo,Yen (JPY),Japanese,Asia
+23,Jordan,Amman,Jordanian dinar (JOD),Arabic,Asia
+24,Kazakhstan,Astana,Tenge (KZT),"Kazakh, Russian",Asia
+25,Kurdistan,Erbil,Dinar,Kurdish,Asia
+26,Kuwait,Kuwait City,Kuwaiti dinar (KWD),Arabic,Asia
+27,Kyrgyzstan,Bishkek,Som (KGS),"Kyrgyz, Russian",Asia
+28,Laos,Vientiane,Kip (LAK),Lao,Asia
+29,Lebanon,Beirut,Lebanese pound (LBP),Arabic,Asia
+30,Macau,Special administrative region of China,Macanese pataca (MOP),"Portuguese, Cantonese",Asia
+31,Malaysia,Kuala Lumpur,Ringgit (MYR),Malaysian,Asia
+32,Maldives,Malé,Maldivian rufiyaa (MVR),Maldivian,Asia
+33,Mongolia,Ulaanbaatar,Tögrög (MNT),Mongolian,Asia
+34,Myanmar (Burma),Naypyidaw,Kyat (MMK),Burmese,Asia
+35,Nagorno-Karabakh,Stepanakert,Armenian dram (AMD),Armenian,Asia
+36,Nepal,Kathmandu,Nepalese rupee (NPR),Nepali,Asia
+37,Northern Cyprus,Nicosia,Turkish lira (TRY),Turkish,Asia
+38,North Korea,Pyongyang,North Korean won (KPW),Korean,Asia
+39,Oman,Muscat,Rial (OMR),Arabic,Asia
+40,Pakistan,Islamabad,Pakistani rupee (PKR),"English, Urdu",Asia
+41,Palestine,Jerusalem,"Egyptian pound (EGP), Israeli new sheqel (ILS), Jordanian dinar (JOD)",Arabic,Asia
+42,Philippines,Manila,Philippine Peso (PHP),"Filipino, English",Asia
+43,Qatar,Doha,Riyal (QAR),Arabic,Asia
+44,Saudi Arabia,Riyadh,Saudi riyal (SAR),Arabic,Asia
+45,Singapore,Singapore,Singapore dollar (SGD),"English, Chinese, Malay, Tamil",Asia
+46,South Korea,Seoul,South Korean won (KRW),Korean,Asia
+47,South Ossetia,Tskhinvali,Russian ruble (RUB),"Ossetic, Georgian, Russian",Asia
+48,Sri Lanka,Sri Jayawardenepura Kotte,Sri Lankan rupee (LKR),"Sinhala, Tamil",Asia
+49,Syria,Damascus,Syrian pound (SYP),Arabic,Asia
+50,Taiwan,Taipei,New Taiwan dollar (TWD),Standard Chinese,Asia
+51,Tajikistan,Dushanbe,Somoni (TJS),Tajik,Asia
+52,Thailand,Bangkok,Baht (THB),Thai,Asia
+53,Turkey,Ankara,Turkish lira (TRY),Turkish,Asia
+54,Turkmenistan,Ashgabat,Turkmen new manat (TMT),Turkmen,Asia
+55,United Arab Emirates,Abu Dhabi,UAE dirham (AED),Arabic,Asia
+56,Uzbekistan,Tashkent,Uzbekistan som (UZS),Uzbek,Asia
+57,Vietnam,Hanoi,đồng (VND),Vietnamese,Asia
+58,Yemen,Sana’a,Yemeni rial (YER),Arabic,Asia
+59,Anguilla,The Valley,East Caribbean dollar (XCD),English,North America
+60,Antigua and Barbuda,St. John’s,East Caribbean dollar (XCD),English,North America
+61,Aruba,Oranjestad,Aruban florin (AWG),"Papiamento, Dutch",North America
+62,Bahamas,Nassau,Bahamian dollar (BSD),English,North America
+63,Barbados,Bridgetown,Barbadian dollar (BBD),English,North America
+64,Belize,Belmopan,Belize dollar (BZD),English,North America
+65,Bermuda,Hamilton,Bermudian dollarc (BMD),English,North America
+66,Bonaire,Kralendijk,United States dollar (USD),Dutch,North America
+67,British Virgin Islands,Road Town,United States dollar (USD),English,North America
+68,Canada,Ottawa,Canadian dollar (CAD),"French, English",North America
+69,Cayman Islands,George Town,Cayman Islands dollar (KYD),English,North America
+70,Clipperton Island,uninhabited,Euro (EUR),French,North America
+71,Costa Rica,San José,Costa Rican colón (CRC),Spanish,North America
+72,Cuba,Havana,"Peso (CUP), Convertible peso (CUC)",Spanish,North America
+73,Curaçao,Willemstad,Netherlands Antillean guilder (ANG),"Papiamento, Dutch",North America
+74,Dominica,Roseau,East Caribbean dollar (XCD),English,North America
+75,Dominican Republic,Santo Domingo,Dominican peso (DOP),Spanish,North America
+76,El Salvador,San Salvador,United States dollara (USD),Spanish,North America
+77,Greenland,Nuuk,Danish krone (DKK),Greenlandic,North America
+78,Grenada,St. George’s,East Caribbean dollar (XCD),English,North America
+79,Guadeloupe,Basse-Terre,Euro (EUR),French,North America
+80,Guatemala,Guatemala City,Guatemalan quetzal (GTQ),Spanish,North America
+81,Haiti,Port-au-Prince,Haitian gourde (HTG),French,North America
+82,Honduras,Tegucigalpa,Honduran lempira (HNL),Spanish,North America
+83,Jamaica,Kingston,Jamaican Dollar (JMD),English,North America
+84,Martinique,Fort-de-France,Euro (EUR),French,North America
+85,Mexico,Mexico City,Mexican peso (MXN),Spanish,North America
+86,Montserrat,Plymouth (official),East Caribbean dollar (XCD),English,North America
+87,Navassa Island,Insular area of the United States of America,United States Dollar (USD),English,North America
+88,Nicaragua,Managua,Nicaraguan cordoba (NIO),Spanish,North America
+89,Panama,Panama City,"Balboa (PAB), United States dollar (USD)",Spanish,North America
+90,Puerto Rico,San Juan,United States Dollar (USD),English,North America
+91,Saba,The Bottom,United States Dollar (USD),Dutch,North America
+92,Saint Barthélemy,Gustavia,Euro (EUR),French,North America
+93,Saint Kitts and Nevis,Basseterre,East Caribbean dollar (XCD),English,North America
+94,Saint Lucia,Castries,East Caribbean dollar (XCD),English,North America
+95,Saint Martin,Marigot,Euro (EUR),French,North America
+96,Saint Pierre and Miquelon,Saint-Pierre,Euro (EUR),French,North America
+97,Saint Vincent and the Grenadines,Kingstown,East Caribbean dollar (XCD),English,North America
+98,Sint Eustatius,Oranjestad,United States Dollar (USD),Dutch,North America
+99,Sint Maarten,Philipsburg,Netherlands Antillean guilder (ANG),"Dutch, English",North America
+100,Trinidad and Tobago,Port of Spain,Trinidad and Tobago dollar (TTD),English,North America
+101,Turks and Caicos Islands,Cockburn Town,United States Dollar (USD),English,North America
+102,United States of America,"Washington, D.C.",United States Dollar (USD),,North America
+103,United States Virgin Islands,Charlotte Amalie,United States Dollar (USD),English,North America
+104,Argentina,Buenos Aires,Peso (ARS),Spanish,South America
+105,Bolivia,Sucre (official),Boliviano (BOB),"Spanish, Quechua, Aymara",South America
+106,Brazil,Brasília,Real (BRL),Portuguese,South America
+107,Chile,Santiago,Peso (CLP),Spanish,South America
+108,Colombia,Bogotá,Peso (COP),Spanish,South America
+109,Ecuador,Quito,United States dollar (USD),Spanish,South America
+110,Falkland Islands,Stanley,Falklands pound (FKP),English,South America
+111,French Guiana,Cayenne,Euro (Eur),French,South America
+112,Guyana,Georgetown,Guyanese dollar (GYD),English,South America
+113,Paraguay,Asunción,Guaraní (PYG),"Spanish, Guaraní",South America
+114,Peru,Lima,Nuevo sol (PEN),Spanish,South America
+115,Suriname,Paramaribo,Surinamese dollar (SRD),Dutch,South America
+116,Uruguay,Montevideo,Uruguayan peso (UYU),Spanish,South America
+117,Venezuela,Caracas,Bolívar fuerte (VEF),Spanish,South America
+118,American Samoa,Pago Pago,United States dollar (USD),"English, Samoan",Australia
+119,Ashmore and Cartier Islands,External territory of Australia,,,Australia
+120,Australia,Canberra,Australian dollar (AUD),,Australia
+121,Baker Island,"administered from Washington, DC",,,Australia
+122,Cook Islands,Avarua,"New Zealand dollar (NZD), Cook Islands dollar","English, Cook Islands Māori",Australia
+123,Coral Sea Islands,administered from Canberra,External territory of Australia,,Australia
+124,Fiji,Suva,Fijian dollar (FJD),"English, Fijian, Fiji Hindi",Australia
+125,French Polynesia,Papeete,CFP Franc (XPF),French,Australia
+126,Guam,Hagatna,United States Dollar,,Australia
+127,Howland Island,"administered from Washington, DC",,,Australia
+128,Jarvis Island,"administered from Washington, DC",,,Australia
+129,Johnston Atoll,,,,Australia
+130,Kingman Reef,,,,Australia
+131,Kiribati,South Tarawa,"Australian dollar, Kiribati dollar",,Australia
+132,Marshall Islands,Majuro,United States Dollar,,Australia
+133,Micronesia,Palikir,United States Dollar,,Australia
+134,Midway Atoll,,,,Australia
+135,Nauru,Yaren (seat of government),Australian dollar,,Australia
+136,New Caledonia,Nouméa,CFP Franc (XPF),French,Australia
+137,New Zealand,Wellington,New Zealand dollar (NZD),"Maori, New Zealand Sign, English",Australia
+138,Niue,Alofi,New Zealand dollar,,Australia
+139,Norfolk Island,Kingston,Australian dollar,,Australia
+140,Northern Mariana Islands,Saipan,United States Dollar,,Australia
+141,Palau,Ngerulmud,United States Dollar,,Australia
+142,Palmyra Atoll,,United States Dollar,,Australia
+143,Papua New Guinea,Port Moresby,Papua New Guinean kina,,Australia
+144,Pitcairn Islands,Adamstown,New Zealand Dollar,,Australia
+145,Samoa,Apia,New Zealand Dollar,,Australia
+146,Solomon Islands,Honiara,Solomon Islands dollar,,Australia
+147,Tokelau,Nukunonu,New Zealand dollar,,Australia
+148,Tonga,Nukuʻalofa,Tongan paʻanga,,Australia
+149,Tuvalu,Funafuti,"Australian dollar, Tuvaluan dollar",,Australia
+150,Vanuatu,Port Vila,Vanuatu vatu (VUV),"Bislama, French, English",Australia
+151,Wake Island,Insular area of the United States of America,United States dollar,,Australia
+152,Wallis and Futuna,Mata-Utu,CFP Franc (XPF),French,Australia
+153,Åland Islands,Mariehamn,Euro (EUR),Swedish,Europe
+154,Albania,Tirana,Lek (ALL),Albanian,Europe
+155,Andorra,Andorra la Vella,Euro (EUR),Catalan,Europe
+156,Austria,Vienna,Euro (EUR),German,Europe
+157,Belarus,Minsk,Belarusian ruble (BYR),"Belarusian, Russian",Europe
+158,Belgium,Brussels,Euro (EUR),"Dutch, French, German",Europe
+159,Bosnia and Herzegovina,Sarajevo,Convertible mark (BAM),"Bosnian, Croatian, Serbian",Europe
+160,Bulgaria,Sofia,Lev (BGN),Bulgarian,Europe
+161,Croatia,Zagreb,Kuna (HRK),Croatian,Europe
+162,Czech Republic,Prague,Czech koruna (CZK),Czech,Europe
+163,Denmark,Copenhagen,Danish krone (DKK),Danish,Europe
+164,Estonia,Tallinn,Euro (EUR),Estonian,Europe
+165,Faroe Islands,Tórshavn,Faroese króna (DKK),"Faroese, Danish",Europe
+166,Finland,Helsinki,Euro (EUR),"Finnish, Swedish",Europe
+167,France,Paris,"Euro (EUR), CFP franc (XPF)",French,Europe
+168,Germany,Berlin,Euro (EUR),German,Europe
+169,Gibraltar,Gibraltar,Gibraltar pound (GIP),English,Europe
+170,Greece,Athens,Euro (EUR),Greek,Europe
+171,Guernsey,Saint Peter Port,Pound sterlingc (GBP),"English, French",Europe
+172,Hungary,Budapest,Forint (HUF),Hungarian,Europe
+173,Iceland,Reykjavík,Icelandic króna (ISK),Icelandic,Europe
+174,Ireland,Dublin,Euro (EUR),"English, Irish",Europe
+175,Isle of Man,Douglas,"Manx pound (official), Pound sterling (also used) (GBP)","English, Manx",Europe
+176,Italy,Rome,Euro (EUR),Italian,Europe
+177,Jersey,Saint Helier,Pound sterlingd (GBP),"English, French",Europe
+178,Kosovo,Pristina,Euro (EUR),"Albanian, Serbian",Europe
+179,Latvia,Ryga,Euro (EUR),Latvian,Europe
+180,Liechtenstein,Vaduz,Swiss franc (CHF),German,Europe
+181,Lithuania,Vilnius,Euro (EUR),Lithuanian,Europe
+182,Luxembourg,Luxembourg,Euro (EUR),"Luxembourgish, French, German",Europe
+183,Macedonia,Skopje,Macedonian denar (MKD),Macedonian,Europe
+184,Malta,Valletta,Euro (EUR),"Maltese, English",Europe
+185,Moldova,Chişinău,Moldovan leu (MDL),Moldovan,Europe
+186,Monaco,Monaco,Euro (EUR),French,Europe
+187,Montenegro,Podgorica,Euro (EUR),Montenegrin,Europe
+188,Netherlands,Amsterdam,Euro (EUR),Dutch,Europe
+189,Norway,Oslo,Norwegian krone (NOK),"Norwegian, Bokmål, Nynorsk",Europe
+190,Poland,Warsaw,Złoty (PLN),Polish,Europe
+191,Portugal,Lisbon,Euro (EUR),Portuguese,Europe
+192,Romania,Bucharest,Romanian leu (RON),Romanian,Europe
+193,San Marino,San Marino,Euro (EUR),Italian,Europe
+194,Serbia,Belgrade,Serbian dinar (RSD),Serbian,Europe
+195,Slovakia,Bratislava,Euro (EUR),Slovak,Europe
+196,Slovenia,Ljubljana,Euro (EUR),Slovene,Europe
+197,Spain,Madrid,Euro (EUR),"Spanish, Catalan, Galician, Basque",Europe
+198,Svalbard,Longyearbyen,Norwegian krone (NOK),Norwegian,Europe
+199,Sweden,Stockholm,Swedish krona (SEK),Swedish,Europe
+200,Switzerland,Bern,Swiss franc,"German, French, Italian, Romansh",Europe
+201,Transnistria,Tiraspol,Transnistrian rubled (PRB),"Russian, Moldovan, Ukrainian",Europe
+202,Ukraine,Kiev,Ukrainian hryvnia (UAH),Ukrainian,Europe
+203,United Kingdom,London,Pound sterling (GBP),English,Europe
+204,Vatican City,Vatican City,Euro (EUR),Italian,Europe
+205,Algeria,Agiers,Algerian dinar (DZD),Arabic,Africa
+206,Angola,Luanda,Kwanza (AOA),Portuguese,Africa
+207,Benin,Porto-Novo (official),Eco,French,Africa
+208,Botswana,Gaborone,Pula (BWP),"English, Setswana",Africa
+209,Burkina Faso,Ouagadougou,Eco,French,Africa
+210,Burundi,Bujumbura,Burundian franc (BIF),"Kirundi, French",Africa
+211,Cameroon,Yaoundé,Central AfricanCFA franc (XAF),"French, English",Africa
+212,Cape Verde,Praia,Cape Verdean escudo (CVE),Portuguese,Africa
+213,Central African Republic,Bangui,Central African CFA franc (XAF),"French, Sango",Africa
+214,Chad,N’Djamena,Central African CFA franc (XAF),"French, Arabic",Africa
+215,Comoros,Moroni,Comorian franc (KMF),"Comorian, Arabic, French",Africa
+216,Congo (Congo-Brazzaville),Brazzaville,Central African CFA franc (XAF),French,Africa
+217,Côte d’Ivoire (Ivory Coast),Yamoussoukro,Eco,French,Africa
+218,Democratic Republic of the Congo (Congo-Kinshasa),Kinshasa,Congolese franc (CDF),French,Africa
+219,Djibouti,Djibouti,Djiboutian franc (DJF),"French, Arabic",Africa
+220,Egypt,Cairo,Egyptian pound (EGP),Arabic,Africa
+221,Equatorial Guinea,Malabo,Central African CFA franc (XAF),"Spanish, French, Portuguese",Africa
+222,Eritrea,Asmara,Eritrean nakfa (ERN),"Tigrinya, Arabic, English",Africa
+223,Ethiopia,Addis Ababa,Ethiopian birr (ETB),Amharic,Africa
+224,Gabon,Libreville,Central African CFA franc (XAF),French,Africa
+225,Gambia,Banjul,Gambian dalasi (GMD),English,Africa
+226,Ghana,Accra,Ghana cedi (GHS),English,Africa
+227,Guinea,Conakry,Guinean franc (GNF),French,Africa
+228,Guinea-Bissau,Bissau,Eco,Portuguese,Africa
+229,Kenya,Nairobi,Kenyan shilling (KES),"Swahili, English",Africa
+230,Lesotho,Maseru,Lesotho loti (LSL),"English, Sesotho",Africa
+231,Liberia,Monrovia,Liberian dollara (LRD),English,Africa
+232,Libya,Tripoli,Libyan dinar (LYD),Arabic,Africa
+233,Madagascar,Antananarivo,Malagasy ariary (MGA),"Malagasy, French",Africa
+234,Malawi,Lilongwe,Kwacha (D) (MWK),"English, Chichewa",Africa
+235,Mali,Bamako,Eco,French,Africa
+236,Mauritania,Nouakchott,Ouguiya (MRO),Arabic,Africa
+237,Mauritius,Port Louis,Mauritian rupee (MUR),"Mauritian Creole, French, English",Africa
+238,Mayotte,Mamoudzou,Euro (EUR),French,Africa
+239,Morocco,Rabat,Moroccan dirham (MAD),"Arabic, Berber",Africa
+240,Mozambique,Maputo,Mozambican metical (MZN),Portuguese,Africa
+241,Namibia,Windhoek,Namibian dollar (NAD),English,Africa
+242,Niger,Niamey,Eco,French,Africa
+243,Nigeria,Abuja,Naira (NGN),English,Africa
+244,Réunion,Saint-Denis,Euro,French,Africa
+245,Rwanda,Kigali,Rwandan franc (RWF),Kigali,Africa
+246,"Saint Helena, Ascension and Tristan da Cunha",Jamestown,"Saint Helena pound,Pound sterling",English,Africa
+247,Sao Tome and Principe,São Tomé,Dobra (STD),Portuguese,Africa
+248,Senegal,Dakar,Eco,French,Africa
+249,Seychelles,Victoria,Seychellois rupee (SCR),Victoria,Africa
+250,Sierra Leone,Freetown,Leone (SLL),English,Africa
+251,Somalia,Mogadishu,Somali shilling (SOS),"Somali, Arabic",Africa
+252,Somaliland,Hargeisa,Somaliland shillinga (SLSH),"Somali, Arabic",Africa
+253,South Africa,Pretoria,South African rand (ZAR),"Afrikaans, English, Southern Ndebele, Northern Sotho, Southern Sotho, Swati, Tsonga, Tswana, Venda, Xhosa, Zulu",Africa
+254,South Sudan,Juba,South Sudanese pound (SSP),English,Africa
+255,Sudan,Khartoum,Sudanese pound (SDG),"Arabic, English",Africa
+256,Swaziland,Mbabane,South African rand Swazi lilangeni (SZL),Mbabane,Africa
+257,Tanzania,Dodoma,Tanzanian shilling (TZS),"Swahili, English",Africa
+258,Togo,Lome,Eco,French,Africa
+259,Tunisia,Tunis,Tunisian dinar (TND),Arabic,Africa
+260,Uganda,Kampala,Ugandan shilling (UGX),"Swahili, English, Luganda",Africa
+261,Zambia,Lusaka,Zambian kwacha (ZMW),English,Africa
+262,Zimbabwe,Harare,"United States Dollar, RTGS dollar","English, Shona, Sindebele",Africa
