@@ -41,7 +41,7 @@ python main.py
 ```
 ## Screenshots
 
-<img src="https://user-images.githubusercontent.com/39943970/93137577-ff522400-f6dd-11ea-9582-697b58d63474.png" width=910>
+![main](https://user-images.githubusercontent.com/39943970/93137577-ff522400-f6dd-11ea-9582-697b58d63474.png)
 
 ![p mode](https://user-images.githubusercontent.com/39943970/93137619-0e38d680-f6de-11ea-9f82-ea243b624f01.png)
 
@@ -59,14 +59,12 @@ python main.py
 
 ![contentes](https://user-images.githubusercontent.com/39943970/93137697-2d376880-f6de-11ea-85e4-56faf6ce1682.png)
 
-![africa](https://user-images.githubusercontent.com/39943970/93137703-2f99c280-f6de-11ea-81
-21-035076622b47.png)
+![africa](https://user-images.githubusercontent.com/39943970/93137703-2f99c280-f6de-11ea-8121-035076622b47.png)
 
 ![learning mode](https://user-images.githubusercontent.com/39943970/93137762-493b0a00-f6de-11ea-8aca-df2a573e55b4.png)
 
 ![enter country name](https://user-images.githubusercontent.com/39943970/93137793-55bf6280-f6de-11ea-94da-77db8277310a.png)
 
-![egypt](https://user-images.githubusercontent.com/39943970/93137767-4b9d6400-f6de-11ea-904
-e-26955e6f2c74.png)
+![egypt](https://user-images.githubusercontent.com/39943970/93137767-4b9d6400-f6de-11ea-904e-26955e6f2c74.png)
 
 ![irap ](https://user-images.githubusercontent.com/39943970/93137810-5c4dda00-f6de-11ea-8ca0-04b9fecb4258.png)
