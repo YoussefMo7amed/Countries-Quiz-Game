@@ -1,44 +1,52 @@
 # Countries Quiz Game
+
 Countries Quiz Game (CQG) is a console desktop application game about countries and continents, consists of 2 parts
-### Practice mode
-- which gives simple questions about countries and continents
-- e.g. number of countries in a continent, where is a country, what is the capital of a country, number of languages in a country or continent, etc
+
+## Modes
+
+### Practice mode (The Quiz)
+
+- Questions about countries and continents (e.g. number of countries in a continent, where is a country, what is the capital of a country, number of languages in a country or continent, etc)
 
 ### Learn mode
 
 - **continents statistics**:
-	- to know statistics about the continent 
-	- e.g. number of countries, official languages, most spoken languages, etc
+  - Display statistics about the continent (e.g. number of countries, official languages, most spoken languages, etc)
 - **countries information** :
-	- to know information about the country
-	- e.g. capital, official languages, its continent, etc
+  languages information about the country (e.g. capital, official languages, its continent, etc)
+  - Note: the application suggests the closest countries names if you misspelled it (e.g "ejypt" will suggest "Egypt", or "irab" will suggest "Iran and Iraq") then you choose the country that you want.
 
-### NOTES
-- There is 2 directories: 
-	- ``wrangling`` directory:
-		- where data is [wrangled](https://en.wikipedia.org/wiki/Data_wrangling#:~:text=Data%20wrangling%2C%20sometimes%20referred%20to,downstream%20purposes%20such%20as%20analytics.)
-		- gathering data directory, where data gathered from the site for each continent (6 directories)
-		- Assess and Clean directory, where compile all continents data which gathered and assess it and clean it using pandas library
-		- **Sub-Note** python code saved as .[ipynb](https://fileinfo.com/extension/ipynb)
-	- ``console`` directory where the application and data (after wrangling it)
-- The application data is gathered from 
-[affairscloud](https://affairscloud.com/) site using python requests and beautiful soup 4 libraries and saved as '.csv' file for each continent using python Pandas library 
-- No OOP
+### Notes
+
+- There are 2 directories:
+  - [console directory](https://github.com/YoussefMo7amed/Countries-Quiz-Game/tree/master/Countries%20Quiz%20Game%20(CQG)/console) where the game.
+  - [wrangling data directory](https://github.com/YoussefMo7amed/Countries-Quiz-Game/tree/master/Countries%20Quiz%20Game%20(CQG)/wrangling%20data) for whom interested in data wrangling process and data.
+- The application data is gathered from
+[affairscloud](https://affairscloud.com/) site using python requests and beautiful soup 4 libraries and saved as '.csv' file for each continent using python Pandas library
+
+----
+
 ## Run
-#### prerequisite
+
+### Prerequisites
+
 - [python3](https://www.python.org/downloads/) installed
-- numpy 
+- numpy
 - pandas
 - Use the package manager [pip](https://pip.pypa.io/en/stable/) to install numpy, pandas if it is not installed.
 
 ```bash
 pip install numpy pandas
 ```
-#### application
+
+#### Application
+
 - open terminal in ``Countries Quiz Game/console`` directory then run the application
+
 ```bash
 python main.py
 ```
+
 ## Screenshots
 
 ![main](https://user-images.githubusercontent.com/39943970/93137577-ff522400-f6dd-11ea-9582-697b58d63474.png)
